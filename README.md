@@ -80,7 +80,7 @@ You've successfully run and modified your React Native App. :partying_face:
 ## 📸 App Screenshot  
 Below is a screenshot of the working application:  
 
-![App Screenshot](app_screenshot.png)
+![App Screenshot](APPIMAGE.jpg)
 
 ### Now what?
 
